@@ -2,4 +2,5 @@
 permalink: /Projects/
 title: ""
 ---
-The page is coming soon!
+All my Cybersecurity projects will be available on this page. Keep checking for updates.
+
