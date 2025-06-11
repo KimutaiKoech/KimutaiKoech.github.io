@@ -66,26 +66,26 @@ author:
      # icon: "fas fa-fw fa-link"
     #  url: "https://"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/koech-kimutai-93127a165/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-     # url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/KimutaiKoech"
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
      # url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/koech-kimutai-93127a165/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/KimutaiKoech"
+   # - label: "Instagram"
+   #  icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/"
 
 defaults:
   # _posts
