@@ -40,9 +40,8 @@ Strategic and security-focused ICT professional with 3+ years of experience in s
    
 # 🎓 Education
 1.	Bachelor of Science in Information Sciences  
-            Moi University, Eldoret, Kenya, Graduated December 2019\
-            Major in Information Technology.
-            Graduated with second-class honors, upper division.
+    Moi University, Eldoret, Kenya  
+    Graduated December 2019 - Second-Class Honours (Upper Division)
 2.	Kenya Certificate Of Secondary Education\
             Olbutyo Boys Secondary School – Attained mean grade of B, 2012.
 
