@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kimutai Koech"
   avatar : "/assets/images/kim.jpg"
-  bio    : "Passionate about securing systems and breaking them ethically. I specialize in penetration testing, threat detection, and building resilient security defenses."
+  bio    : "Network and Cloud Security Analyst."
   links:
    # - label: "Website"
      # icon: "fas fa-fw fa-link"
