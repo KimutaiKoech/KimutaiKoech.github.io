@@ -60,20 +60,20 @@ plugins:
 author:
   name   : "Kimutai Koech"
   avatar : "/assets/images/kim.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Passionate about securing systems and breaking them ethically. I specialize in penetration testing, threat detection, and building resilient security defenses."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+   # - label: "Website"
+     # icon: "fas fa-fw fa-link"
+    #  url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-twitter-LinkedIn"
+      url: "www.linkedin.com/in/koech-kimutai-93127a165"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+     # url: "https://github.com/"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/"
 
 footer:
   links:
