@@ -39,7 +39,7 @@ Strategic and security-focused ICT professional with 3+ years of experience in s
 5. GDPR and Data Privacy (2024)
    
 # 🎓 Education
-1.	Bachelor of Science in Information Sciences\ 
+1.	Bachelor of Science in Information Sciences  
             Moi University, Eldoret, Kenya, Graduated December 2019\
             Major in Information Technology.
             Graduated with second-class honors, upper division.
