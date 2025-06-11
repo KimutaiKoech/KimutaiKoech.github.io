@@ -19,6 +19,7 @@ Strategic and security-focused ICT professional with 3+ years of experience in s
 - Effective Communication and Reporting
 - Compliance and Risk Management (GDPR)
 - Teamwork and Collaboration
+  
 # Experience
 ## IT Support Engineer | Kenya Breweries Ltd February 2022 – Present
 - Performed regular system upgrades and security patching.
